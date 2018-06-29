@@ -1,1 +1,3 @@
-$('#secondText').empty();
+$(function(){
+  $('#secondText').empty();
+});
